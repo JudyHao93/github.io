@@ -23,8 +23,9 @@ linkedin: yujia-hao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a second-year Ph.D. student at the <a href="https://oden.utexas.edu/" target="_blank">Oden Institute</a> at the University of Texas at Austin. Under the mentorhips of Dr. Karen Willcox, my research focuses on multifidelity 
-    methods and reduced order modeling.
+    I am a second-year Ph.D. student at the <a href="https://oden.utexas.edu/" target="_blank">Oden Institute</a>, 
+    University of Texas at Austin, working under the mentorship of <a href="https://kiwi.oden.utexas.edu/" target="_blank">Dr. Karen Willcox</a>. My research is centered on 
+    multifidelity methods and reduced order modeling, exploring ways to enhance computational efficiency in complex systems.
   </p>
 
 portrait_url: "/assets/images/photos/pfp.jpeg"
